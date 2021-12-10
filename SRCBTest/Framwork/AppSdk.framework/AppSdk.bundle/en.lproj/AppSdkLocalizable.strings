@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  AppSdk
+
+ Copyright © 2018年 Nationsky. All rights reserved.
+
+*/
+"Tips_Title" = "Tips";
+"Tips_Content" = "Please use screenshots carefully to avoid data leakage.";
+"Tips_Confirm" = "Confirm";
+"sdk_visit_album_note" = "The App need visit your album.";
+
+"MAM_confine_alert" = "The administrator has forbidden to grant %@ access to %@.";
+
+"MAM_Screenshot" = "screenshot";
+"MAM_ReadAlbum" = "read system album";
+"MAM_WriteAlbum" = "write system album";
+"MAM_CopyAndPaste" = "copy and paste outward";
+"MAM_ToShare" = "to share";
+"MAM_Camera" = "use camera";
+"MAM_Bluetooth" = "use bluetooth";
+"MAM_AirDrop" = "AirDrop";
+"MAM_Email" = "use system mailbox";
+"MAM_MicroPhone" = "MicroPhone";
+"MAM_Phone" = "make a call";
+"MAM_SMS" = "send message";
+"MAM_Location" = "get location";
+
+"MAM_confine_alert_button" = "ok";

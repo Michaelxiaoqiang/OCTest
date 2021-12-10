@@ -1,0 +1,6 @@
+framework module NSConfigSdk {
+  umbrella header "NSConfigSdk.h"
+
+  export *
+  module * { export * }
+}

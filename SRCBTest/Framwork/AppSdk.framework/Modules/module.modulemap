@@ -1,0 +1,6 @@
+framework module AppSdk {
+  umbrella header "AppSdk.h"
+
+  export *
+  module * { export * }
+}
