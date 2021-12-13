@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SRCBTest.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>8FB6B5111FFC7E7B8CC62BBCDB2331BED7A9E73B</string>
+				<key>dateExpires</key>
+				<string>2023/12/31</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>UD5875U6UU.group.com.qdbank.hrx</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>UD5875U6UU</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>SRCBTest.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>76863b2c-73c3-40f9-97a0-d328f2d8872b</string>
+				<key>name</key>
+				<string>hrxprofile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>UD5875U6UU</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

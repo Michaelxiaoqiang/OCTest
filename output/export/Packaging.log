@@ -1,0 +1,153 @@
+2021-12-13 08:45:15 +0000 [MT] Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7ff7c74ef750; archive(resolved)='<IDEArchive: 0x7ff7c75071b0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team(resolved)='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	Chain (13, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7ff7c74ef750; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7ff7c74fe420; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionContext: 0x7ff7c7f0a240; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionContext: 0x7ff7c74e82a0; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionContext: 0x7ff7c74e6930; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionContext: 0x7ff7c7504560; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionContext: 0x7ff7c4793ab0; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionContext: 0x7ff7c74e55e0; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionContext: 0x7ff7c47988c0; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='<IDEProvisioningBasicTeam: 0x7ff7c74df690; teamID='UD5875U6UU', teamName='(null)'>'>
+	<IDEDistributionContext: 0x7ff7c751a4a0; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='(null)'>
+	<IDEDistributionContext: 0x7ff7c74d97a0; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='(null)'>
+	<IDEDistributionContext: 0x7ff7c74c8fc0; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7ff7c7514f40>', team='(null)'>
+	<IDEDistributionContext: 0x7ff7c7507790; archive = '<IDEArchive: 0x7ff7c75071b0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7ff7c74ef750>
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionCreateDestRootStep
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionCopyItemStep
+2021-12-13 08:45:15 +0000 [MT] Running /usr/bin/ditto '-V' '/Users/xiaoqiang/Desktop/Project/OCTest/SRCBTest.xcarchive/Products/Applications/SRCBTest.app' '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root/Payload/SRCBTest.app'
+2021-12-13 08:45:15 +0000  >>> Copying /Users/xiaoqiang/Desktop/Project/OCTest/SRCBTest.xcarchive/Products/Applications/SRCBTest.app 
+2021-12-13 08:45:15 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-12-13 08:45:15 +0000  6392 bytes for ./_CodeSignature/CodeResources
+2021-12-13 08:45:15 +0000  copying file ./AppSdk.bundle/zh-Hans.lproj/AppSdkLocalizable.strings ... 
+2021-12-13 08:45:15 +0000  841 bytes for ./AppSdk.bundle/zh-Hans.lproj/AppSdkLocalizable.strings
+2021-12-13 08:45:15 +0000  copying file ./AppSdk.bundle/en.lproj/AppSdkLocalizable.strings ... 
+2021-12-13 08:45:15 +0000  839 bytes for ./AppSdk.bundle/en.lproj/AppSdkLocalizable.strings
+2021-12-13 08:45:15 +0000  copying file ./AppSdk.bundle/zh-Hant.lproj/AppSdkLocalizable.strings ... 
+2021-12-13 08:45:15 +0000  836 bytes for ./AppSdk.bundle/zh-Hant.lproj/AppSdkLocalizable.strings
+2021-12-13 08:45:15 +0000  copying file ./AppSdk.bundle/Root.plist ... 
+2021-12-13 08:45:15 +0000  1456 bytes for ./AppSdk.bundle/Root.plist
+2021-12-13 08:45:15 +0000  copying file ./Bridge.png ... 
+2021-12-13 08:45:15 +0000  16856 bytes for ./Bridge.png
+2021-12-13 08:45:15 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2021-12-13 08:45:15 +0000  916 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-12-13 08:45:15 +0000  2052 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-12-13 08:45:15 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2021-12-13 08:45:15 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2021-12-13 08:45:15 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-12-13 08:45:15 +0000  2055 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-12-13 08:45:15 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-12-13 08:45:15 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-12-13 08:45:15 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-12-13 08:45:15 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-12-13 08:45:15 +0000  copying file ./SRCBTest ... 
+2021-12-13 08:45:15 +0000  1812080 bytes for ./SRCBTest
+2021-12-13 08:45:15 +0000  copying file ./embedded.mobileprovision ... 
+2021-12-13 08:45:15 +0000  13324 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2021-12-13 08:45:15 +0000  1823 bytes for ./Info.plist
+2021-12-13 08:45:15 +0000  copying file ./PkgInfo ... 
+2021-12-13 08:45:15 +0000  8 bytes for ./PkgInfo
+2021-12-13 08:45:15 +0000 [MT] /usr/bin/ditto exited with 0
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionEmbedProfileStep
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionInfoPlistStep
+2021-12-13 08:45:15 +0000 [MT] Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionAppThinningPlistStep
+2021-12-13 08:45:15 +0000 [MT] Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionCompileBitcodeStep
+2021-12-13 08:45:15 +0000 [MT] Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionCodeSlimmingStep
+2021-12-13 08:45:15 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root/Payload/SRCBTest.app/SRCBTest' '-r' '-o' '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root/Payload/SRCBTest.app/SRCBTest'
+2021-12-13 08:45:15 +0000 [MT] /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-12-13 08:45:15 +0000 [MT] Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionSymbolsStep
+2021-12-13 08:45:15 +0000 [MT] Skipping step: IDEDistributionSymbolsStep because it said so
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionAppThinningStep
+2021-12-13 08:45:15 +0000 [MT] Skipping step: IDEDistributionAppThinningStep because it said so
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionArchThinningStep
+2021-12-13 08:45:15 +0000 [MT] Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root/Payload/SRCBTest.app/SRCBTest' '-verify_arch' 'arm64e'
+2021-12-13 08:45:15 +0000 [MT] /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-12-13 08:45:15 +0000 [MT] Skipping architecture thinning for item "SRCBTest" because arch "arm64e" wasn't found
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionODRStep
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionStripXattrsStep
+2021-12-13 08:45:15 +0000 [MT] Running /usr/bin/xattr '-crs' '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root/Payload/SRCBTest.app'
+2021-12-13 08:45:15 +0000 [MT] /usr/bin/xattr exited with 0
+2021-12-13 08:45:15 +0000 [MT] Processing step: IDEDistributionCodesignStep
+2021-12-13 08:45:15 +0000 [MT] Entitlements for <IDEDistributionItem: 0x7ff7c7654700; bundleID='group.com.qdbank.hrx', path='<DVTFilePath:0x7ff7c75069f0:'/Users/xiaoqiang/Desktop/Project/OCTest/SRCBTest.xcarchive/Products/Applications/SRCBTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff7c2608f20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff7c7f18380; name='iPhone Distribution: Bank of Qingdao Co., Ltd.', hash='8FB6B5111FFC7E7B8CC62BBCDB2331BED7A9E73B', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ff7c74ed350>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2020-12-31 06:11:48 +0000''>', entitlements='{
+    "application-identifier" = "UD5875U6UU.group.com.qdbank.hrx";
+    "com.apple.developer.team-identifier" = UD5875U6UU;
+    "get-task-allow" = 0;
+}', teamID='UD5875U6UU', identifier='group.com.qdbank.hrx', executablePath='<DVTFilePath:0x7ff7c7614890:'/Users/xiaoqiang/Desktop/Project/OCTest/SRCBTest.xcarchive/Products/Applications/SRCBTest.app/SRCBTest'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "UD5875U6UU.group.com.qdbank.hrx";
+    "com.apple.developer.team-identifier" = UD5875U6UU;
+    "get-task-allow" = 0;
+}
+2021-12-13 08:45:15 +0000 [MT] Entitlements for <IDEDistributionItem: 0x7ff7c7654700; bundleID='group.com.qdbank.hrx', path='<DVTFilePath:0x7ff7c75069f0:'/Users/xiaoqiang/Desktop/Project/OCTest/SRCBTest.xcarchive/Products/Applications/SRCBTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff7c2608f20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff7c7f1e0b0; name='iPhone Distribution: Bank of Qingdao Co., Ltd.', hash='8FB6B5111FFC7E7B8CC62BBCDB2331BED7A9E73B', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ff7c7f1d040>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2020-12-31 06:11:48 +0000''>', entitlements='{
+    "application-identifier" = "UD5875U6UU.group.com.qdbank.hrx";
+    "com.apple.developer.team-identifier" = UD5875U6UU;
+    "get-task-allow" = 0;
+}', teamID='UD5875U6UU', identifier='group.com.qdbank.hrx', executablePath='<DVTFilePath:0x7ff7c7614890:'/Users/xiaoqiang/Desktop/Project/OCTest/SRCBTest.xcarchive/Products/Applications/SRCBTest.app/SRCBTest'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "UD5875U6UU.group.com.qdbank.hrx";
+    "com.apple.developer.team-identifier" = UD5875U6UU;
+    "get-task-allow" = 0;
+}
+2021-12-13 08:45:15 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0x7ff7c7654700; bundleID='group.com.qdbank.hrx', path='<DVTFilePath:0x7ff7c75069f0:'/Users/xiaoqiang/Desktop/Project/OCTest/SRCBTest.xcarchive/Products/Applications/SRCBTest.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7ff7c2608f20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7ff7c7f229a0; name='iPhone Distribution: Bank of Qingdao Co., Ltd.', hash='8FB6B5111FFC7E7B8CC62BBCDB2331BED7A9E73B', serialNumber='<DVTSigningCertificateSerialNumber: 0x7ff7c7f224e0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2020-12-31 06:11:48 +0000''>', entitlements='{
+    "application-identifier" = "UD5875U6UU.group.com.qdbank.hrx";
+    "com.apple.developer.team-identifier" = UD5875U6UU;
+    "get-task-allow" = 0;
+}', teamID='UD5875U6UU', identifier='group.com.qdbank.hrx', executablePath='<DVTFilePath:0x7ff7c7614890:'/Users/xiaoqiang/Desktop/Project/OCTest/SRCBTest.xcarchive/Products/Applications/SRCBTest.app/SRCBTest'>', hardenedRuntime='0'>'> to: /var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/entitlements~~~m95maf
+2021-12-13 08:45:15 +0000 [MT] Running /usr/bin/codesign '-vvv' '--force' '--sign' '8FB6B5111FFC7E7B8CC62BBCDB2331BED7A9E73B' '--entitlements' '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/entitlements~~~m95maf' '--preserve-metadata=identifier,flags,runtime' '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root/Payload/SRCBTest.app'
+2021-12-13 08:45:16 +0000  /var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root/Payload/SRCBTest.app: signed app bundle with Mach-O universal (armv7 arm64) [group.com.qdbank.hrx]
+2021-12-13 08:45:16 +0000 [MT] /usr/bin/codesign exited with 0
+2021-12-13 08:45:16 +0000 [MT] Processing step: IDEDistributionZipODRItemStep
+2021-12-13 08:45:16 +0000 [MT] Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-12-13 08:45:16 +0000 [MT] Processing step: IDEDistributionCreateIPAStep
+2021-12-13 08:45:16 +0000 [MT] Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root' '/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Packages/SRCBTest.ipa'
+2021-12-13 08:45:16 +0000  >>> Copying /var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root 
+2021-12-13 08:45:16 +0000  copying file ./Payload/SRCBTest.app/_CodeSignature/CodeResources ... 
+2021-12-13 08:45:16 +0000  6392 bytes for ./Payload/SRCBTest.app/_CodeSignature/CodeResources
+2021-12-13 08:45:16 +0000  copying file ./Payload/SRCBTest.app/AppSdk.bundle/zh-Hans.lproj/AppSdkLocalizable.strings ... 
+2021-12-13 08:45:16 +0000  841 bytes for ./Payload/SRCBTest.app/AppSdk.bundle/zh-Hans.lproj/AppSdkLocalizable.strings
+2021-12-13 08:45:16 +0000  copying file ./Payload/SRCBTest.app/AppSdk.bundle/en.lproj/AppSdkLocalizable.strings ... 
+2021-12-13 08:45:16 +0000  839 bytes for ./Payload/SRCBTest.app/AppSdk.bundle/en.lproj/AppSdkLocalizable.strings
+2021-12-13 08:45:16 +0000  copying file ./Payload/SRCBTest.app/AppSdk.bundle/zh-Hant.lproj/AppSdkLocalizable.strings ... 
+2021-12-13 08:45:16 +0000  836 bytes for ./Payload/SRCBTest.app/AppSdk.bundle/zh-Hant.lproj/AppSdkLocalizable.strings
+2021-12-13 08:45:16 +0000  copying file ./Payload/SRCBTest.app/AppSdk.bundle/Root.plist ... 
+2021-12-13 08:45:16 +0000  1456 bytes for ./Payload/SRCBTest.app/AppSdk.bundle/Root.plist
+copying file ./Payload/SRCBTest.app/Bridge.png ... 
+2021-12-13 08:45:16 +0000  16856 bytes for ./Payload/SRCBTest.app/Bridge.png
+2021-12-13 08:45:16 +0000  copying file ./Payload/SRCBTest.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2021-12-13 08:45:16 +0000  916 bytes for ./Payload/SRCBTest.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/SRCBTest.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-12-13 08:45:16 +0000  2052 bytes for ./Payload/SRCBTest.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/SRCBTest.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2021-12-13 08:45:16 +0000  258 bytes for ./Payload/SRCBTest.app/Base.lproj/Main.storyboardc/Info.plist
+2021-12-13 08:45:16 +0000  copying file ./Payload/SRCBTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-12-13 08:45:16 +0000  2055 bytes for ./Payload/SRCBTest.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/SRCBTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-12-13 08:45:16 +0000  896 bytes for ./Payload/SRCBTest.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/SRCBTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-12-13 08:45:16 +0000  258 bytes for ./Payload/SRCBTest.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/SRCBTest.app/SRCBTest ... 
+2021-12-13 08:45:16 +0000  410496 bytes for ./Payload/SRCBTest.app/SRCBTest
+2021-12-13 08:45:16 +0000  copying file ./Payload/SRCBTest.app/embedded.mobileprovision ... 
+2021-12-13 08:45:16 +0000  13324 bytes for ./Payload/SRCBTest.app/embedded.mobileprovision
+copying file ./Payload/SRCBTest.app/Info.plist ... 
+2021-12-13 08:45:16 +0000  1823 bytes for ./Payload/SRCBTest.app/Info.plist
+copying file ./Payload/SRCBTest.app/PkgInfo ... 
+2021-12-13 08:45:16 +0000  8 bytes for ./Payload/SRCBTest.app/PkgInfo
+2021-12-13 08:45:16 +0000 [MT] /usr/bin/ditto exited with 0
+2021-12-13 08:45:16 +0000 [MT] Processing step: IDEDistributionAppStoreInformationStep
+2021-12-13 08:45:16 +0000 [MT] Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-12-13 08:45:16 +0000 [MT] Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-12-13 08:45:16 +0000 [MT] IDEDistributionItem init <DVTFilePath:0x7ff7c7f08ce0:'/var/folders/jq/rrs6jgy17m55hvt2g39m68z00000gn/T/XcodeDistPipeline.~~~1LzvDw/Root/Payload/SRCBTest.app'>
+2021-12-13 08:45:16 +0000 [MT] Processing step: IDEDistributionCreateManifestStep
