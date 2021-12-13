@@ -11,7 +11,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.srcb.ihr</key>
-		<string>71ae8e52-ccc4-4142-ae94-d70ab2f1014f</string>
+		<string>76863b2c-73c3-40f9-97a0-d328f2d8872b</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
@@ -20,7 +20,7 @@
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>K9J37DHCVB</string>
+	<string>UD5875U6UU</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>

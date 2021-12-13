@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  AppSdk
+
+ Copyright © 2018年 Nationsky. All rights reserved.
+*/
+"Tips_Title" = "提示";
+"Tips_Content" = "请谨慎使用截屏图片，以免数据泄露。";
+"Tips_Confirm" = "确定";
+"sdk_visit_album_note" = "该应用中心需要访问您的相册。";
+
+"MAM_confine_alert" = "管理员已禁止授予 %@ 获取 %@ 权限。";
+
+"MAM_Screenshot" = "截屏";
+"MAM_ReadAlbum" = "读取系统相册";
+"MAM_WriteAlbum" = "写入媒体库";
+"MAM_CopyAndPaste" = "向外复制粘贴";
+"MAM_ToShare" = "向外分享";
+"MAM_Camera" = "使用相机";
+"MAM_Bluetooth" = "使用蓝牙";
+"MAM_AirDrop" = "隔空投送";
+"MAM_Email" = "系统邮箱";
+"MAM_MicroPhone" = "麦克风";
+"MAM_Phone" = "拨打电话";
+"MAM_SMS" = "发送短信";
+"MAM_Location" = "获取地理位置";
+
+"MAM_confine_alert_button" = "确定";

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/SRCBTest.app</string>
+		<key>Architectures</key>
+		<array>
+			<string>armv7</string>
+			<string>arm64</string>
+		</array>
+		<key>CFBundleIdentifier</key>
+		<string>group.com.qdbank.hrx</string>
+		<key>CFBundleShortVersionString</key>
+		<string>2.0.0</string>
+		<key>CFBundleVersion</key>
+		<string>1</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Distribution: Bank of Qingdao Co., Ltd.</string>
+		<key>Team</key>
+		<string>UD5875U6UU</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2021-12-13T08:40:11Z</date>
+	<key>Name</key>
+	<string>SRCBTest</string>
+	<key>SchemeName</key>
+	<string>SRCBTest</string>
+</dict>
+</plist>
