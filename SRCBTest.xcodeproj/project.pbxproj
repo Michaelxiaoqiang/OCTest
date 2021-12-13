@@ -579,7 +579,7 @@
 				CODE_SIGN_ENTITLEMENTS = SRCBTest/SRCBTest.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = K9J37DHCVB;
+				DEVELOPMENT_TEAM = UD5875U6UU;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/SRCBTest/Framwork",
@@ -595,9 +595,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.srcb.ihr;
+				PRODUCT_BUNDLE_IDENTIFIER = group.com.qdbank.hrx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = IHRproductProfile;
+				PROVISIONING_PROFILE_SPECIFIER = hrxprofile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
